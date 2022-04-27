@@ -19,7 +19,7 @@ const Modal = ({children}: Props) =>{
 
       </div>
       <div className={styles.modal}>
-        <h2>Texto modal</h2>
+        <h2>Editar tarefa</h2>
         {children} {/* Metodo para enviar um componente como propriedade para ser renderizado onde queremos*/}
       </div>
     </div>

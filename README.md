@@ -1,46 +1,66 @@
-# Getting Started with Create React App
+<p align="center">
+  <img width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</p>
+</p>
 
-## Available Scripts
+<hr />
 
-In the project directory, you can run:
+**Todo:**
 
-### `npm start`
+Projeto desenvolvido no curso de React com TypeScript do básico ao avançado, com finalidade de pôr em prática os conteúdo que foram abordados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+No desenvolvimento, aprender e praticar funcionalidades básicas do ReactJs com TypeScript, como:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Criação de components;
+- Organização de layout;
+- Funções;
+- Metodos;
+- Gerenciamento de estado com os Hooks useState e useEffect
+- Criação de Modal;
+- Validações e edição de dados.
 
-### `npm test`
+**Linguagens e ferramentas:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="BootStrap 5" width="40" height="40"/> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-### `npm run build`
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Configuração do projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm i
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Iniciar projeto
 
-### `npm run eject`
+```
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Demonstração projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Banner principal com informações:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Log in](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/banner.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Carrossel de imagens
 
-## Learn More
+![Perfils](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/carrosel_img.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Projeto responsivo.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Own perfil](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/responsive.png)
+
+
+
+ 
+ 
+ <a href="https://www.linkedin.com/in/devbrunaduarte/"><img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"><a/>
+
+⭐️ Projeto desenvolvido na live transmitida no calnal do youtube da  <a href="https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ">B7web<a/>
