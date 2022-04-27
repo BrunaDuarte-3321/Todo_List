@@ -45,17 +45,17 @@ npm start
 
 ### Demonstração projeto
 
-- Banner principal com informações:
+- Tela principal:
 
-![Log in](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/banner.png)
+![Log in](https://raw.githubusercontent.com/BrunaDuarte-3321/Todo_List/main/src/assets/img/principal.png)
 
-- Carrossel de imagens
+- Tarefa criada
 
-![Perfils](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/carrosel_img.png)
+![Perfils](https://raw.githubusercontent.com/BrunaDuarte-3321/Todo_List/main/src/assets/img/new.png)
 
-- Projeto responsivo.
+- Modal para editar tarefa
 
-![Own perfil](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/responsive.png)
+![Own perfil](https://raw.githubusercontent.com/BrunaDuarte-3321/Todo_List/main/src/assets/img/modal.png)
 
 
 
@@ -63,4 +63,4 @@ npm start
  
  <a href="https://www.linkedin.com/in/devbrunaduarte/"><img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"><a/>
 
-⭐️ Projeto desenvolvido na live transmitida no calnal do youtube da  <a href="https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ">B7web<a/>
+
