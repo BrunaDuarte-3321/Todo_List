@@ -11,7 +11,7 @@
 
 Projeto desenvolvido no curso de React com TypeScript do básico ao avançado, com finalidade de pôr em prática os conteúdo que foram abordados.
 
-No desenvolvimento, aprender e praticar funcionalidades básicas do ReactJs com TypeScript, como:
+No desenvolvimento, foi colocado em pratica as funcionalidades básicas do ReactJs com TypeScript, como:
 
 - Criação de components;
 - Organização de layout;
