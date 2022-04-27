@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/BrunaDuarte-3321/Todo_List/main/src/assets/img/react_ts.png">
 </p>
 
 </p>
